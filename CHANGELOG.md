@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/data-platform-hq/terraform-google-nat/compare/v1.0.0...v1.1.0) (2026-09-02)
+
+
+### Features
+
+* change google provider to v7.45.0 ([19585cf](https://github.com/data-platform-hq/terraform-google-nat/commit/19585cfe6a5ce0332f865fb8f6cbb592189561eb))
+
 # 1.0.0 (2023-08-21)
 
 
